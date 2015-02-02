@@ -1,0 +1,9 @@
+db.movies.insert(
+	[
+		{ title: "Goldfinger", releaseYear : "1968", director: "Martin Scorsese", genre: "action" },
+		{ title: "Amsterdammed", releaseYear : "1984", director: "Paul Verhoeven", genre: "horror" },
+		{ title: "For your eyes only", releaseYear : "1983", director: "Martin Brundle", genre: "action" },
+		{ title: "The Living Daylights", releaseYear : "1987", director: "Martin Scorsese", genre: "action" },
+		{ title: "Rocky", releaseYear : "1979", director: "Martin Scorsese", genre: "action" }
+	]
+)
